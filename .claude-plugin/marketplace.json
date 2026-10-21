@@ -3937,6 +3937,32 @@
         "repo": "whereisdw/lidnight-claude-plugin",
         "sha": "f54adf0da9c4fe31ff24631a3d7d0e3e8890dda2"
       }
+    },
+    {
+      "name": "mission-control",
+      "description": "Open Claude Mission Control, a local read-only dashboard for every Claude Code session: who is waiting on you, cost per session and commit, and a usage-limit forecast. Adds a statusline.",
+      "version": "1.15.0",
+      "author": {
+        "name": "Jon Imms",
+        "url": "https://github.com/JonImmsWordpressDev"
+      },
+      "repository": "https://github.com/JonImmsWordpressDev/claude-dashboard",
+      "license": "MIT",
+      "keywords": [
+        "dashboard",
+        "monitoring",
+        "usage",
+        "cost",
+        "statusline",
+        "claude-code"
+      ],
+      "category": "monitoring",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/JonImmsWordpressDev/claude-dashboard.git",
+        "path": "plugin",
+        "sha": "129d494d53866c47efbeee02834b3e85b4ea95e2"
+      }
     }
   ]
 }
