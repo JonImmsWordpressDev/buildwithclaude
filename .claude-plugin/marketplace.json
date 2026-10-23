@@ -3941,7 +3941,7 @@
     {
       "name": "mission-control",
       "description": "Open Claude Mission Control, a local read-only dashboard for every Claude Code session: who is waiting on you, cost per session and commit, and a usage-limit forecast. Adds a statusline.",
-      "version": "1.15.0",
+      "version": "1.18.0",
       "author": {
         "name": "Jon Imms",
         "url": "https://github.com/JonImmsWordpressDev"
@@ -3961,7 +3961,7 @@
         "source": "git-subdir",
         "url": "https://github.com/JonImmsWordpressDev/claude-dashboard.git",
         "path": "plugin",
-        "sha": "129d494d53866c47efbeee02834b3e85b4ea95e2"
+        "sha": "6e2d56158275578033d1dfa17fa55b78acd17efd"
       }
     }
   ]
